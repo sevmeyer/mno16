@@ -6,7 +6,6 @@ import sys
 from fontTools import subset
 from fontTools import ttx
 from fontTools.ttLib import sfnt
-from fontTools.ttLib import TTFont
 
 # Arguments
 TTX = sys.argv[1]
